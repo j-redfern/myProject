@@ -1,0 +1,41 @@
+body{
+  background-color: white;
+}
+
+.sidebar{
+  float: left;
+  width: 100px;
+  margin-top:20px;
+}
+
+.sidebar ul{
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+.content{
+  margin-left: 110px;
+background-color: white;
+padding: 10px;
+}
+
+h1{
+font-weight: bold;
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 54px;
+  color: #d9b3ff;
+  margin-top: 0px;
+}
+
+img{
+  width: 100%;
+}
